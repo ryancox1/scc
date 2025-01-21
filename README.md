@@ -1,2 +1,2 @@
-# it161
+# scc
 Files for IT161-Winter2025 
