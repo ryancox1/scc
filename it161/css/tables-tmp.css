@@ -1,0 +1,51 @@
+table.home {
+    border:1px solid #000;
+    width:80%;
+    border-collapse: collapse;
+    margin:auto;
+    background-color:#fff;
+}
+
+ 
+table.home tr {
+  vertical-align:top;
+}
+
+table.home tr:nth-child(odd) {
+background-color: rgb(31, 31, 31);
+color:#fff;
+}
+
+table.home td, th {
+
+  padding:.5em;
+}
+
+table.HERO {
+    border:1px solid #000;
+    width:90%;
+    border-collapse: collapse;
+    margin:auto;
+    background-color:#fff;
+}
+
+table.HERO td, th {
+    text-align: left;
+    width:50%;
+    background-color:#fff;
+}
+
+table.contact {
+  border:1px solid #000;
+  width:90%;
+  border-collapse: collapse;
+  margin:auto;
+  background-color:#fff;
+}
+
+table.contact td, th {
+  text-align: left;
+  width:50%;
+  background-color:#fff;
+}
+
