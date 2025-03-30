@@ -42,6 +42,7 @@ h1.page-header{
  main.wrapper {
     background-color: #000000;
     overflow: auto;
+    margin: auto;
 
  }
 
@@ -168,11 +169,15 @@ footer {
     padding: 1em;
  }
 
- .flexible-LNK-HME img{
-    width:15%;
-    position: fixed;
-    padding: 0.5em;
-    background-color: #000000;
+ .flexible-LNK-HOT img{
+    display: block;
+    margin: auto;
+    width:80%;
+    padding: 1em;
+    text-align: center;
+
+    
+    
  }
 
  .flexible-LNK-BGR img{
